@@ -2,6 +2,23 @@
 layout: default
 ---
 
+## Resources for Quantum Computing 
+
+1. [UC Berkeley CS294](https://www.youtube.com/watch?v=Z1uoz_8dLH0&list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
+2. [MIT 6.050J](https://www.youtube.com/playlist?list=PLKBK3QL_ZdN9s4VI-TEV-tv5aqCu4-1mn)
+
+
+## Resources for Information Theory
+
+1. [Cambridge Information Theory, Inference and learning algorithms](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+2. [Elements of Information Theory     Thomas M.Cover,Joy A.Thomas](http://www.cs-114.org/wp-content/uploads/2015/01/Elements_of_Information_Theory_Elements.pdf)
+
+
+## Resources for Biophysics
+
+1. [Willaim Bialek  Biophysics-Searching for Principles,Princeton University](https://www.princeton.edu/~wbialek/PHY562/WB_biophysics110918.pdf)
+
+
 ## Resources for Machine Learning
 
 1. [Caltech CS156](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
