@@ -14,7 +14,7 @@ social: true
 
 I am an undergraduate in the  [Department of Computer Science and Engineering ](https://www.cse.iitk.ac.in/){:target="\_blank"}, at [Indian Institute of Technology Kanpur](http://www.iitk.ac.in/){:target="\_blank"}, working under the supervision of [Prof. Satyadev Nandakumar](https://www.cse.iitk.ac.in/users/satyadev/){:target="\_blank"}. 
 
-My interests lie at the intersection of Theoretical Computer Science and Physics , including Information Theory , Quantum Computing and Game Theory. I like solving problems in the broad areas of classical field theories , quantum physics and statistical mechanics. I am specially interested in Biophysics. In the past , I have worked extensively in the field of Computer Vision . In the wide domain of Machine Learning, I am interested in Reinforcement Learning.
+My interests lie at the intersection of Theoretical Computer Science and Physics , including Information Theory , Quantum Computing and Game Theory. I like solving problems in the broad areas of classical field theories , quantum physics and statistical mechanics. I am specially interested in Biophysics. In the past , I have worked extensively in the field of Computer Vision . I am also mildly interested in Reinforcement Learning.
 
 
 
