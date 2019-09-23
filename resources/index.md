@@ -59,3 +59,8 @@ layout: default
 
 1. [Nonlinear Control System Design MIT 2.152](http://web.mit.edu/nsl/www/videos/lectures.html)
 
+## Miscellaneous 
+
+1. [ R.Shankar, Yale : For General Physics at an Introductory Level ](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+2. [ 3Blue1Brown : for intuitive proofs , visualizations and non-trivial problems](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+

@@ -5,7 +5,7 @@ title: <strong>Sirshendu</strong> Mandal
 description: <a href="https://cse.iitk.ac.in/">Computer Science and Physics Majors | IIT Kanpur</a> 
 
 profile:
-  align: left
+  align: center
   image: me.jpg
   
 news: false
