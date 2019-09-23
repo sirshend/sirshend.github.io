@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Sirshendu</strong> Mandal
-description: <a href="https://cse.iitk.ac.in/">Computer Science and Physics Double Majors | IIT Kanpur</a> 
+description: <a href="https://cse.iitk.ac.in/">Computer Science and Physics Majors | IIT Kanpur</a> 
 
 profile:
   align: right
@@ -12,7 +12,7 @@ news: false
 social: true
 ---
 
-I am a MS Research student in the [Department of Computer Science and Engineering](https://www.cse.iitk.ac.in/){:target="\_blank"}, at [Indian Institute of Technology Kanpur](http://www.iitk.ac.in/){:target="\_blank"}, working under the supervision of [Prof. Indranil Saha](https://www.cse.iitk.ac.in/users/isaha/){:target="\_blank"}. I have completed my Bachelor of Technology from Kamla Nehru Institute of Technology, Sultanpur in Computer Science and Engineering. I have nearly three years of industry experience with the likes of IFFCO and Alcatel-Lucent (Now Nokia).
+I am a MS Research student in the [Department of Computer Science and (https://www.cse.iitk.ac.in/){:target="\_blank"}, at [Indian Institute of Technology Kanpur](http://www.iitk.ac.in/){:target="\_blank"}, working under the supervision of [Prof. Indranil Saha](https://www.cse.iitk.ac.in/users/isaha/){:target="\_blank"}. I have completed my Bachelor of Technology from Kamla Nehru Institute of Technology, Sultanpur in Computer Science and Engineering. I have nearly three years of industry experience with the likes of IFFCO and Alcatel-Lucent (Now Nokia).
 
 I have spent the summer of 2019 at VERIMAG Labs Grenoble, France as a Visiting Research Scholar working under the supervision of [Prof. Thao Dang](http://www-verimag.imag.fr/PEOPLE/Thao.Dang/){:target="\_blank"} in the area of Formal Verification of Neural Networks.
 
