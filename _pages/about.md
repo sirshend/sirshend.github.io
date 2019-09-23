@@ -16,6 +16,8 @@ I am an undergraduate in the  [Department of Computer Science and Engineering ](
 
 My interests lie at the intersection of Theoretical Computer Science and Physics , including Information Theory , Quantum Computing and Game Theory. I like solving problems in the broad areas of classical field theories , quantum physics and statistical mechanics. I am specially interested in Biophysics. In the past , I have extensively worked in Computer Vision . In the wide domain of Machine Learning, I am interested in reinforcement learning as it is the closest thing we have to our learning process.
 
+
+
 <!-- 
 -----------------
 
