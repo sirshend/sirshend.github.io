@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Pratyush</strong> Varshney
-description: <a href="https://cse.iitk.ac.in/">MS Research | IIT Kanpur</a> 
+title: <strong>Sirshendu</strong> Mandal
+description: <a href="https://cse.iitk.ac.in/">Undergraduate | IIT Kanpur</a> 
 
 profile:
   align: right
@@ -18,7 +18,7 @@ I have spent the summer of 2019 at VERIMAG Labs Grenoble, France as a Visiting R
 
 My interests lie in the area of Reinforcement Learning, UAVs, Formal Methods and Control Theory.
 
-
+<!-- 
 -----------------
 
 ### __Publication__
@@ -65,4 +65,4 @@ My interests lie in the area of Reinforcement Learning, UAVs, Formal Methods and
 * Playing Atari Games using Reinforcement Learning 
 * Aayush: Online Medical Assistance Portal
 
-----------------------------------------
+---------------------------------------- -->
