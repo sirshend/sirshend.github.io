@@ -10,8 +10,9 @@ layout: default
 
 ## Resources for Information Theory
 
-1. [Information Theory, Inference and Learning Algorithms  : Cambridge](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
-2. [Elements of Information Theory :  Thomas M.Cover, Joy A.Thomas](http://www.cs-114.org/wp-content/uploads/2015/01/Elements_of_Information_Theory_Elements.pdf)
+1. [IIT Kanpur CS 687](https://www.cse.iitk.ac.in/users/satyadev/a10/a10.html)
+2. [Information Theory, Inference and Learning Algorithms  : Cambridge](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+3. [Elements of Information Theory :  Thomas M.Cover, Joy A.Thomas](http://www.cs-114.org/wp-content/uploads/2015/01/Elements_of_Information_Theory_Elements.pdf)
 
 
 ## Resources for Biophysics
