@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Sirshendu</strong> Mandal
-description: <a href="https://cse.iitk.ac.in/">Undergraduate | IIT Kanpur</a> 
+description: <a href="https://cse.iitk.ac.in/">Computer Science and Physics Double Majors | IIT Kanpur</a> 
 
 profile:
   align: right
