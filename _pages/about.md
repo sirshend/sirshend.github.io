@@ -12,11 +12,9 @@ news: false
 social: true
 ---
 
-I am a MS Research student in the [Department of Computer Science and (https://www.cse.iitk.ac.in/){:target="\_blank"}, at [Indian Institute of Technology Kanpur](http://www.iitk.ac.in/){:target="\_blank"}, working under the supervision of [Prof. Indranil Saha](https://www.cse.iitk.ac.in/users/isaha/){:target="\_blank"}. I have completed my Bachelor of Technology from Kamla Nehru Institute of Technology, Sultanpur in Computer Science and Engineering. I have nearly three years of industry experience with the likes of IFFCO and Alcatel-Lucent (Now Nokia).
+I am an undergraduate in the  [Department of Computer Science and Engineering ](https://www.cse.iitk.ac.in/){:target="\_blank"}, at [Indian Institute of Technology Kanpur](http://www.iitk.ac.in/){:target="\_blank"}, working under the supervision of [Prof. Satyadev Nandakumar](https://www.cse.iitk.ac.in/users/satyadev/){:target="\_blank"}. 
 
-I have spent the summer of 2019 at VERIMAG Labs Grenoble, France as a Visiting Research Scholar working under the supervision of [Prof. Thao Dang](http://www-verimag.imag.fr/PEOPLE/Thao.Dang/){:target="\_blank"} in the area of Formal Verification of Neural Networks.
-
-My interests lie in the area of Reinforcement Learning, UAVs, Formal Methods and Control Theory.
+My interests lie at the intersection of Theoretical Computer Science and Physics , including Information Theory , Quantum Computing and Game Theory. I like solving problems in the broad areas of classical field theories , quantum physics and statistical mechanics. I am specially interested in Biophysics. In the past , I have extensively worked in Computer Vision . In the wide domain of Machine Learning, I am interested in reinforcement learning as it is the closest thing we have to our learning process.
 
 <!-- 
 -----------------
