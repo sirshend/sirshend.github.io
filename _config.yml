@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
-# -----------------------------------------------------------------------------
-name: Pratyush
+# ---------------------------------------------------------------------------
+name: xyz
 email: pratyushvarshney@cse.iitk.ac.in
 description: > # this means to ignore newlines until "url:"
   Personal Page.
